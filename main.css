@@ -247,6 +247,10 @@ img.demo {
   opacity: 0.6;
 }
 
+.img-responsive{
+  display: inline;
+}
+
 .active,
 .demo:hover {
   opacity: 1;
